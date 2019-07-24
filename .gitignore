@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# project files
+Debug/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
